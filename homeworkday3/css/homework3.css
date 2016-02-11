@@ -1,0 +1,36 @@
+header {
+    background-color:cornflowerblue;
+    color:white;
+    font-family:Helvetica;
+    padding: 20px 10px 30px 10px;
+    width:1000px;
+}
+
+.whitelink {
+    color:white;
+    padding-top: 20px;
+}
+
+.corei7 {
+    width:1000px;
+    font-family: Helvetica;
+}
+
+td {
+    width:500px;
+    font-family: Helvetica;
+}
+
+img {
+    width:100%
+}
+
+article {
+    background-color: lightgray;
+    font-family:Helvetica;
+    width: 1000px;
+    padding: 20px 10px 20px 10px;
+}
+h3 {
+    font-family:Helvetica;
+}
