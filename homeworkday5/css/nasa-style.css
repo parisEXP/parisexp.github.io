@@ -1,0 +1,75 @@
+body {
+    font-family: trebuchet ms;
+    margin: auto;
+}
+
+img {
+    height: 450px;
+    width: 850px;
+}
+
+.block {
+    background-color: lightgray;
+    height: 324px;
+    width: 290px;
+    float: left
+}
+
+.block2 {
+    background-color: lightgray;
+    height: 324px;
+    width: 270px;
+    float: left
+}
+
+.white-name {
+    background-color: white;
+    width: 200px;
+    height: 25px;
+    margin-left: 15px;
+}
+
+.white-message {
+    background-color: white;
+    width: 200px;
+    height: 60px;
+    border: 10px;
+    margin-left: 15px;
+}
+
+a {
+    font-weight: bold;
+    background-color: darkslategray;
+    color: white;
+    text-decoration: none;
+    padding: 5px 15px;
+    position:absolute;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+h3 {
+    border: 5px;
+    padding: 15px;
+}
+
+p {
+    border: 5px;
+    padding: 15px;
+    color: darkslategray
+}
+
+.contact-info {
+    color: darkslategray;
+    padding-left:15px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 320px;
+    font-size:80px;
+}
