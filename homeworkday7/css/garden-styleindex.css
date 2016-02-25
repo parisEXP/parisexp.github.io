@@ -1,0 +1,44 @@
+nav {
+    text-align: center
+}
+main {
+    background: url("../img/1.jpg");
+    background-repeat:no-repeat;
+    text-align: center;
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../img/1.jpg");
+    
+}
+
+p {
+    color: white;
+    font-size: 12px;
+    padding-top: 180px;  
+}
+
+h1 {
+    font-size: 30px;
+    color: white;
+    padding-top: 15px;
+}
+
+h3 {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.contactus {
+    text-decoration: none;
+    color: white;
+    background-color: #94b300;
+    padding: 10px;
+}
+
+/*.clear-fix:after {
+    content: '';
+    display: block;
+    clear: both;
+}*/
