@@ -1,0 +1,107 @@
+.container {
+    width: 80%;
+    background:;
+    margin: 0 auto;
+    font-family: sans-serif
+}
+
+header h2 {
+    font-size: 30px;
+    float: left;
+    padding-left: 5px;
+}
+
+header a {
+    float:right;
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+    padding-right: 5px;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+a ul {
+    position: absolute;
+    display: none;
+    list-style: none;
+}
+
+a:hover ul {
+    display: block;
+    list-style: none;
+}
+
+#hero {
+    background: url(../img/mutant-tail.jpg);
+    background-position: center;
+    background-size:contain;
+    background-repeat:;
+    text-align: center;
+    height: 500px;
+    clear:both;
+}
+
+#hero h1 {
+    padding-top: 150px;
+    font-size: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+header h2:hover {
+    background: url(../img/JellyBellyBeans.jpg);
+    padding: 500px;
+}
+
+#hero p {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+#hero a {
+    background-color: #81f655;
+    text-decoration: none;
+    padding: 5px 15px;
+    color: white;
+}
+
+#hero a:hover {
+    background-color: aqua;
+}
+
+article {
+    clear: both;
+    border-top: 2px solid black;
+    margin-top: 10px;
+}
+
+.globereader {
+    float: left;
+    margin: 0px 20px 10px;
+    width: 25%;
+}
+
+.globereader img {
+    width: 100%;
+}
+
+.globereadertxt {
+    float: right;
+    text-align: center;
+    width: 70%;
+    margin: 10px 0px 10px 10px;
+}
+
+.globereadertxt h2 {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+    
+.globereadertxt p {
+    padding: 0px 150px;
+    text-align: left;
+    
+}
