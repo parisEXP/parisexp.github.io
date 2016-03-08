@@ -75,7 +75,8 @@ header h2:hover {
 article {
     clear: both;
     border-top: 2px solid black;
-    margin-top: 10px;
+    margin-top: 30px;
+    float: left;
 }
 
 .globereader {
@@ -103,5 +104,80 @@ article {
 .globereadertxt p {
     padding: 0px 150px;
     text-align: left;
-    
 }
+
+#pieces {
+    text-align: center;
+}
+
+.spixdiv {
+    padding-top: 30px;
+    float: left;
+    width: 25%;
+}
+
+.smallpics {
+    width: 60%;
+    height: 200px;
+}
+
+.spixdiv h4 {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.spixdiv p {
+    font-size: 12px;
+    padding: 10px 85px
+}
+
+#shred {
+}
+.shredbox {
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-top: 30px
+}
+
+.shredpix {
+    width: 70%
+}
+
+.date {
+    float: right;
+    padding-right: 100px;
+    padding-bottom: 30px;
+}
+
+#bottom {
+    background: url(../img/alienskate.png);
+    background-position: center;
+    background-size:contain;
+    background-repeat:;
+    text-align: center;
+    height: 500px;
+    clear:both;
+    color: white;
+}
+
+#bottom h2 {
+    font-size: 40px;
+    padding-top: 200px
+}
+
+#bottom a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 30px;
+    border: 1px solid white;
+}
+
+#bottom p {
+    padding: 50px;
+}
+
+#bottom a:hover {
+    background-color: #81f655;
+}
+
