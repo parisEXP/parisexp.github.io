@@ -14,28 +14,24 @@
 }
 
 div {
-    float:left;
+    float: left;
     width: 25%;
     text-align: center;
     padding-top: 20px;
 }
 
-@media (min-width: 768px) and (max-width: 991px) {  
-    
+@media (min-width: 768px) and (max-width: 991px) {
     div {
         width: 50%;
-    } 
-    
+    }
     .hero h1 {
         font-size: 60px;
         margin-bottom: 0px;
     }
-
 }
 
 @media (max-width: 767px) {
-    
-    div{
+    div {
         width: 100%;
     }
 }
