@@ -23,19 +23,3 @@ div {
     padding-top: 20px;
 }
 
-@media (min-width: 769px) and (max-width: 991px) {
-    div {
-        width: 50%;
-    }
-    .hero h1 {
-        font-size: 60px;
-        margin-bottom: 0px;
-    }
-}
-
-@media (max-width: 768px) {
-    div {
-        width: 100%;
-    }
-}
-
