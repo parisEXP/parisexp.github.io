@@ -1,5 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .hero {
-    background: url(../img/sub_header_home.jpg);
+    background: url(../img/sub_header_home.jpg) center;
     background-repeat: no-repeat;
     width: 100%;
     color: white;

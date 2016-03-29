@@ -1,0 +1,38 @@
+#hero {
+    padding: 10px;
+}
+
+#hero div h1 {
+    border-bottom: black solid 1px;
+    padding: 10px;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+#hero div p {
+    padding: 10px;
+    font-weight: bold;
+}
+
+#zero {
+    padding: 10px;
+}
+
+#zero a {
+    text-decoration: none;
+    font-weight:;
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+}
+
+#satan {
+    background-color: gray;
+    color: white;
+    margin-top: 20px;
+}
+
+#satan div p {
+    border-bottom: white solid 1px;
+    margin-right: 50px;
+}
