@@ -1,0 +1,93 @@
+#hero {
+    background-image: url("http://foundry.mediumra.re/img/wine14.jpg");
+    color: white;
+    text-align: center;
+    background-repeat: no-repeat
+}
+#hero img {
+    padding-top: 100px;
+}
+
+#hero div h1 {
+    padding: 20px 300px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+#hero div h4 {
+    font-weight: lighter;
+    padding-bottom: 200px;
+}
+
+#about {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#about h3 {
+    font-weight: lighter;
+    color: gray;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#about h1 {
+    font-style: italic;
+    font-weight: lighter;
+}
+
+#about p {
+    color: gray;
+    font-size: 15px;
+}
+
+#duo {
+    text-align: center;
+}
+
+#sig {
+    padding-top: 50px;
+    margin-bottom: 190px;
+}
+
+#villin {
+    background-image: url("http://foundry.mediumra.re/img/wine13.jpg");
+    text-align: center;
+    color: white;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+#villin div h1 {
+    padding: 20px 300px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+#villin div p {
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+#bottles {
+    text-align: center;
+    font-style: italic;
+}
+
+#bottles a {
+    color: white;
+    background-color: forestgreen;
+    padding: 10px 30px;
+    font-style: normal;
+    font-weight: lighter;
+    margin-bottom: 100px;
+}
+
+#bottles img {
+    width: 50%;
+    height: 50%;
+}
+
+.bottlez {
+    padding-bottom: 50px;
+}
