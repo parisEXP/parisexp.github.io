@@ -1,0 +1,135 @@
+/* main {
+    margin-top: 50px;
+    font-family: sans-serif;
+    color: black;
+}
+*/
+
+.navbar-default {
+    background: transparent;
+    border: none;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    text-shadow: 2px 2px 8px #000;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    text-shadow: 2px 2px 8px #000;
+}
+
+#home {
+    color: white;
+    background-image: url(../img/Sanddune21.jpg);
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+#home h1 {
+    padding-top: 150px;
+    font-size: 60px;
+}
+
+#home h4 {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+#home a {
+    text-decoration: none;
+    padding: 10px 15px;
+    border: white solid 2px;
+    color: white;
+    font-weight: bold;
+}
+
+#home a:hover {
+    color: #748c9d;
+    border: #748c9d solid 2px;
+}
+
+#map {
+    text-align: center;
+}
+
+#sound {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sound h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#sound ul {
+    list-style: none;
+    margin-left: -40px;
+}
+
+#images {
+    color: white;
+    background-image: url(../img/Sanddune41.jpg);
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+#images img {
+    height: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#images h3 {
+    font-weight: lighter;
+}
+
+#images p {
+    font-family: serif;
+    font-style: italic;
+    font-size: 12px;
+}
+
+#video {
+    margin: 20px 0px;
+}
+
+#video p {
+    text-align: right;
+}
+
+#about {
+    background-image: url(../img/Sanddune33.jpg);
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    color: white;
+}
+
+#about h2 {
+    padding-top: 150px;
+    padding-bottom: 40px;
+}
+
+#about a {
+    text-decoration: none;
+    padding: 5px 15px;
+    border: white solid 2px;
+    color: white;
+    font-weight: bold;
+    margin: 10px;
+}
+
+#about a:hover {
+    color: #748c9d;
+    border: #748c9d solid 2px;
+}
